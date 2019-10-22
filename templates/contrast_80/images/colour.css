@@ -1,0 +1,75 @@
+html{height: 100%;}
+
+body
+{ background: #8EA376;
+  color: #67705A;
+}
+
+blockquote
+{ background: #FFF;
+  color: #67705A;
+  border-color: #D7D7D7;
+}
+
+#main
+{ background: #FFF url(back.png) repeat-y;
+  color: #67705A;
+}
+
+#links, #footer, #menu, #menu li a
+{ background: #888 url(menu.png);
+  color: #FFF;
+  border-color: #D7D7D7;
+}
+
+#links a, #footer a, #links a:hover, #footer a:hover
+{ background: transparent;
+  color: #FFF;
+}
+
+#logo
+{ background: #FFF url(logo.jpg) no-repeat;
+  color: #67705A;
+}
+
+#logo h1
+{ background: transparent;
+  color: #FFF;
+}
+
+h1
+{ background: transparent;
+  color: #7C9D49;
+  border-color: #B5CA91;
+}
+
+#menu li a:hover, #menu li a#selected, #menu li a#selected:hover
+{ background: #FFF url(menu_hover.png);
+  color: #67705A;
+} 
+
+.sbihead
+{ background: #FFF url(side.png);
+  color: #67705A;
+} 
+
+#content, #column2, .sidebaritem, .sbihead h1, .sidebaritem a, #column2 a, .sidebaritem a:hover, #column2 a:hover
+{ background: transparent;
+  color: #67705A;
+}
+
+.sbilinks li a
+{ background: #FFF url(link.png);
+  color: #67705A;
+} 
+
+.sbilinks li a:hover
+{ background: #DBE1D1;
+  color: #7C9D49;
+} 
+
+input, textarea
+{ background: #FFF;
+  color: #67705A;
+  border-color: #B5CA91;
+}

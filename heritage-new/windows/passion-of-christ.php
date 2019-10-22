@@ -1,0 +1,43 @@
+<html lang="en-US">
+<?php include ('../parts/head.php'); ?>
+
+<body
+    class="page-template page-template-template-template-two page-template-template-template-two-php page page-id-35 logged-in admin-bar custom-background customize-support">
+    <?php include ('../parts/header.php'); ?>
+
+    <div id="wrapper" class="hfeed">
+        <div id="container">
+            <article id="content" class="">
+
+              <div class="floatnone"><a data-fancybox="gallery" href="../images/windows-passion-of-christ.jpg"><img src="../images/windows-passion-of-christ.jpg" alt="" /></a></div>
+
+
+              <H1 class=LNE_title>Passion of Christ</H1>
+              <H4>The East Window</H4>
+              <H4><!-- $MVD$:spaceretainer() --></H4>
+              <!--<P><IMG alt="wineast.jpg (14989 bytes)" src="/images/wineast.jpg" width=246 height=347></P>-->
+              <P><STRONG>Studio:</STRONG> William Warrington, 1861 (signed)</P>
+              <P><STRONG>Dedication:</STRONG></P>
+              <P>The dedication plaque is obscured by the wooden reredos screen which was placed there in 1881. It is hard to decipher because of one hundred and twenty years of condensation and build up of dirt!<EM></EM> </P>
+              <P>This magnificent window, with 34 human figures, 20 angelic ones and 7 horses, was made especially for the enlarged and restored church. Various techniques of stained glass work and painting, including acid work and enamels for the blue of the hills have been used.</P>
+              <P>When there was further work on the church 20 years later in 1882, the chancel and sanctuary were raised. This also meant the raising of the Reredos Screen by nearly two feet, obscuring the bottom of the windows. In the bottom left hand corner, the soldier looks at three dice which he has rolled onto the seamless robe of Christ, casting dice, rather than tearing it, the executioners’ "perks". The High Priest’s robes have golden bells along the bottom fringe. When he alone entered the "Holy of Holies" in the Jewish Temple, the sound of the golden bells would be heard.</P>
+              <P>Warrington has chosen 4 Passion Shields with medieval emblems held by angelic figures above the Passion scene. Of particular interest is the Mother Pelican feeding three chicks. By piercing her breast with her beak, the bird fed her offspring with her blood. This was a symbol of Christ shedding his blood for our salvation.</P>
+              <P>In the Post Office London Directory for 1839 Warrington is described as ‘Artist in Stained Glass, Heraldic and Decorative Painter, Plumber, Glazier and Paper Hanger’. Perhaps his latter skills brought in the bread and butter?</P>
+              <P>Another of his windows can be seen in St. Peter’s, Leeds, south aisle.</P>
+              <P>Notes on Stained and Painted Glass by The Revd. Peter Marshall, B.A.(Vicar 1983-1998) and Professor David Davies</P>
+
+
+            </article>
+
+            <aside id="sidebar" class="red">
+                <?php include ('sidebar.php'); ?>
+            </aside>
+
+            <div class="clear"></div>
+        </div>
+    </div>
+
+    <?php include ('../parts/footer.php'); ?>
+</body>
+
+</html>
