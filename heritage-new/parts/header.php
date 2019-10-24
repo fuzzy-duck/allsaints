@@ -103,4 +103,15 @@
 	html {
 		margin-top: 0 !important;
 	}
+
+	#sidebar .gen-link-sb a {
+	font-family: verdana;
+	padding: 5px;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+	#sidebar .gen-link-sb a {
+		font-size: 18px;
+	}
+}
 </style>

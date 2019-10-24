@@ -16,6 +16,8 @@
 
 <p><strong>Some of the north walls of the church.</strong> The aisle wall, in particular, is thought to be of the fourteenth century with fifteenth-century windows and a doorway added. While the clerestory wall appears to be medieval, with later window additions in 1880. You can see the difference between the rubble construction of the older section and the regular coursing of the Victorian wall further east. </p>
 
+
 <div class="map">
+<h2 style="margin-top: 5em;">The Church Map</h2>
     <img src="images/map.png" alt="church map" />
 </div>

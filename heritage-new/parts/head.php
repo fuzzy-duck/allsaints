@@ -50,6 +50,21 @@
 			clear: none;
 		}
 
+		#sidebar.news-sb.red .gen-link-sb a, .page-template-template-podcast-php #sidebar.red .gen-link-sb a, .page-template-template-template-two-php #sidebar.red .gen-link-sb a {
+			padding: 16px !important;
+    		font-size: 16px !important;
+		}
+
+		.gen-link-sb a {
+			font-family: verdana;
+		}
+
+		@media (min-width: 320px) and (max-width: 480px) {
+			#sidebar.news-sb.red .gen-link-sb a, .page-template-template-podcast-php #sidebar.red .gen-link-sb a, .page-template-template-template-two-php #sidebar.red .gen-link-sb a {
+
+			}
+		}
+
 		@media only screen and (max-width: 767px) {
 			.floatleft {
 				float: none;
@@ -57,6 +72,7 @@
 				max-width: 100%;
 			}
 		}
+
 
 		.entry-content p {
 			font-family: verdana;
