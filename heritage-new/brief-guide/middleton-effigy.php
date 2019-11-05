@@ -17,10 +17,6 @@
 
                 <p>The Middletons held extensive lands in this part of the West Yorkshire for many centuries, and held administrative, judicial and military offices for the King, giving them significant influence over the lives of local people, including the congregation of the church.</p>
 
-                <p>The magnificent Crucifixion Window was made especially for the enlarged and restored church by William Warrington in 1861.</p>
-
-                <p>The stained-glass work and painting has exceptional detail, created with various newly-rediscovered Medieval techniques including acid work and enamels for the blue of the hills.</p>
-
             </article>
 
             <aside id="sidebar" class="red">

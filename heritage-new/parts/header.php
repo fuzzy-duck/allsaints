@@ -10,7 +10,7 @@
 		</div>
 		<div class="header-right">
 			<div class="social">
-				<a href="https://www.facebook.com/allsaintsilkley" target="blank"><img alt="Ilkley All Saints Church"
+				<a href="https://www.facebook.com/HeritageatAllSaintsChurch/" target="blank"><img alt="Ilkley All Saints Church"
 						src="http://www.allsaintsilkley.org/wp-content/themes/startupwp/images/fb-new.png"></a>
 				<a href="https://twitter.com/allsaintsilkley" target="blank"><img alt="Ilkley All Saints Church"
 						src="http://www.allsaintsilkley.org/wp-content/themes/startupwp/images/twitter-new.png"></a>
@@ -41,7 +41,7 @@
 						</li>
 
 						<li id="menu-item-218700" class="menu-item">
-							<a href="/heritage/heritage-new/meet-the-team.php">Meet the Team</a>
+							<a href="/heritage/heritage-new/meet-the-team.php" style="border-right: none;">Meet the Team</a>
 						</li>
 
 						<li id="menu-item-219682" class="menu-item" style="display: none;">

@@ -9,8 +9,6 @@
             <article id="content" class="">
                 <h1>Two Carved Heads & Dog-Tooth Archway</h1>
 
-                <p>Text below by John Le Patourel (1981) from his Guide to the Church</p>
-
                 <p>The two figure heads on each side of the porch entrance depict King Edwin of Northumbria and Paulinus, Bishop of York in AD627, who are believed to have founded the Church in AD 627.</p>
 
                 <div class="floatnone">
@@ -33,4 +31,4 @@
     <?php include ('../parts/footer.php'); ?>
 </body>
 
-</html>images/explore/02.jpg
+</html>

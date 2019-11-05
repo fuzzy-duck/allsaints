@@ -6,4 +6,4 @@
 
 <h2>Start exploring</h2>
 
-<p>All Saints Ilkley is proudly part of our local heritage, and remains a centre of worship for people of all ages. Visitors are always welcome, but you can also learn more about the church’s features, famous Saxon Crosses, stained glass windows, and details of the many brasses right here. You can also download our FREE booklet on Ilkley Parish Church, by John Le Patourel.</p>
+<p>All Saints Ilkley is proudly part of our local heritage, and remains a centre of worship for people of all ages. Visitors are always welcome, but you can also learn more about the church’s features, famous Saxon Crosses, stained glass windows, and details of the many brasses right here.</p>

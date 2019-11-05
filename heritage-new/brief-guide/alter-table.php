@@ -7,7 +7,7 @@
     <div id="wrapper" class="hfeed">
         <div id="container">
             <article id="content" class="">
-                <h1>Alter Table</h1>
+                <h1>Altar Table</h1>
 
                 <p>The altar-table is thought to be Elizabethan, though with many alterations since the late 1500s.</p>
 

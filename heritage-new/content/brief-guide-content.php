@@ -6,7 +6,7 @@
 
 <p>Evidence from this era suggests that this abandoned fort of Olicana had a southern rampart that ran a little to the south of what is now Church Street, while the eastern rampart extended to the east of Lower Brook Street. </p>
 
-<p>But the ruins aren’t all hidden beneath the surface. It’s thught that material from the fort was actually used and re-used in the many transformations the church has undergone over the centuries. </p>
+<p>But the ruins aren’t all hidden beneath the surface. It’s thought that material from the fort was actually used and re-used in the many transformations the church has undergone over the centuries. </p>
 
 <h2>Medieval and Victorian modifications</h2>
 

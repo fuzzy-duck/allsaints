@@ -14,7 +14,7 @@
 
                 <p>A peal of eight bells hangs in the tower: three 17th Century bells, recast in 1845, and five more added by the Reverend John Snowdon and his three sons, Jasper, William and Henry, who all shared their father’s great enthusiasm for bell-ringing.</p>
 
-                <p>Then follows the cross and the cruel nails that pierced Jesus' hands and feet: "I often think about the cross and shut my eyes and try to see the cruel nails and crown of thorns and Jesus crucified for me. But even could I see Him die, I could but see a little part of that great love which like a fire is always burning in his heart...."- Words from the hymn "It is a thing most wonderful"</p>
+                <p>When Jasper died in 1885, an historian and campanologist of national fame, muffled peals of bells were rung throughout the land in his honour.</p>
 
             </article>
             

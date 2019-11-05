@@ -88,6 +88,10 @@ A:hover {
   border-right: 1px solid #fff;
 }
 
+#menu_bar, ul, li a:nth-last-of-type() {
+  border-right: none;
+}
+
 #menu_bar ul li a:hover, #menu_bar ul li a.selected
 {
   background: #FF6600 url('images/menu_hover_bg.gif') top left repeat-x;

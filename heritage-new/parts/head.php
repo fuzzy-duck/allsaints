@@ -51,8 +51,8 @@
 		}
 
 		#sidebar.news-sb.red .gen-link-sb a, .page-template-template-podcast-php #sidebar.red .gen-link-sb a, .page-template-template-template-two-php #sidebar.red .gen-link-sb a {
-			padding: 16px !important;
-    		font-size: 16px !important;
+			padding: 10px 16px;
+    		font-size: 13px;
 		}
 
 		.gen-link-sb a {
@@ -495,5 +495,47 @@
 			height: 100%;
 			max-width: 100%;
 		}
+
+		.fund {
+			width: 400px;
+		}
+
+		@media (min-width: 320px) and (max-width: 480px) {
+			.fund {
+			width: 300px;
+		}
+		}
+
+		.heritage-address li {
+			padding-left: 0px !important;
+		}
+
+		.team {
+			margin-top: 25px;
+		}
+
+		.team .inner {
+			display: flex;
+			margin-top: 20px;
+		}
+
+		.team .row {
+			margin: 15px 0px;
+		}
+
+		.team-img {
+			width: 900px;
+			display: inline-block;
+		}
+
+		.team-img img {
+			min-width: 100%;
+		}
+
+		.team p {
+			display: inline-block;
+			padding-left: 20px;
+		}
+
 	</style>
 </head>
